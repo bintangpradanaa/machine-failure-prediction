@@ -1,4 +1,4 @@
-# Machine Failure Prediction using Optimized KNN Algorithm
+# Machine Failure Prediction in Manufacturing Industry
 
 ## Resources
 - 📊 [Presentation Deck](https://drive.google.com/file/d/1SeO9nRQNwcRTNMjpwA3B7bz2GcVhI3fj/view?usp=sharing)  
