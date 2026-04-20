@@ -34,7 +34,3 @@ Unplanned machine breakdowns can significantly impact production performance. To
 - Continuously retrain the model with new sensor data to maintain performance accuracy  
 - Develop a simple **dashboard interface** to visualize predictions for technical teams  
 - Provide training for maintenance teams to ensure proper response to failure alerts  
-
-## Output
-- Predictive Maintenance System
-- Actionable maintenance insights for manufacturing operations
