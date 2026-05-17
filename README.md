@@ -2,7 +2,7 @@
 
 ## Resources
 - 📊 [Presentation Deck](https://drive.google.com/file/d/1SeO9nRQNwcRTNMjpwA3B7bz2GcVhI3fj/view?usp=sharing)  
-- 🚀 [Model Deployment](https://machine-failure-prediction-bintangpradanaa.streamlit.app/)
+- 🚀 [Model Deployment](https://machine-failure-prediction-projects.streamlit.app/)
 
 ## Project Overview
 In a manufacturing environment, unexpected machine failures can lead to production downtime, increased operational costs, and reduced efficiency.
